@@ -682,7 +682,9 @@ footer .footer-content .contact-form .contact-input:focus{
     background: #006669;
     color: var(--footer-font-color);
     border-radius: .25rem;
+    margin-top: -10px;
     width: 100%;
+    margin-bottom: -17px;
 }
 .footer-section .send-button .btn:hover{
     color: var(--footer-font-color) !important;
@@ -759,12 +761,13 @@ footer .footer-bottom{
     }
 
     footer .footer-content .contact-form{
-        padding-bottom: 90px;
+        padding-bottom: 7px;
     }
     footer .footer-section .contact-us .text-input,
     footer .footer-section .contact-us .message-text,
     footer .footer-section .send-button .contact-btn{
-        width: 90%;
+        width: 100%;
+        margin-bottom: 12px;
     }
 }
 
