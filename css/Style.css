@@ -902,7 +902,7 @@ footer .footer-bottom{
 }
 @media(max-width: 450px){
     #nav{
-        padding: 0px 0px;
+        padding: 0px 5px;
     }
     .navbar .nav-links .logo-text{
         position: absolute;
