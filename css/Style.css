@@ -40,7 +40,6 @@ h1,h2{
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 nav .logo{
     float: left;
@@ -307,6 +306,7 @@ header .nav-bar ul li a{
     width: 100%;
     background: cover;
     margin-top: -7px;
+    height: 100vh;
 }
 
 
@@ -799,7 +799,7 @@ footer .footer-bottom{
         background: var(--bg-color);
         transition: 0.5s;
         overflow: hidden;
-        z-index: 1000;
+
     }
     .nav-bar ul{
         width: 100%;
@@ -892,6 +892,7 @@ footer .footer-bottom{
 @media (max-width: 760px){
     .form-pop{
         width: 95%;
+
     }
     .form-box .form-details{
         display: none;
