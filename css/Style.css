@@ -799,7 +799,7 @@ footer .footer-bottom{
         background: var(--bg-color);
         transition: 0.5s;
         overflow: hidden;
-
+        z-index: 1000;
     }
     .nav-bar ul{
         width: 100%;
