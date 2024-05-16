@@ -337,9 +337,9 @@ header .nav-bar ul li a{
 
 .slider{
     position: relative;
-    width: 49.5%; 
+    width: 60.5%; 
     overflow: hidden;
-    margin-left: 17%;
+    margin-left: 10%;
     margin-bottom: 50px;
     
 }
@@ -875,10 +875,10 @@ footer .footer-bottom{
         display: block;
     }
     .slider{
-        width: 88.5%;
+        width: 71.5%;
         position: relative;
         overflow: hidden;
-        margin-left: -6%;
+        margin-left: 4%;
         margin-bottom: 50px;
     }
 
@@ -892,6 +892,7 @@ footer .footer-bottom{
 }
 @media (max-width: 760px){
     .slider{
+        width: 87.5%;
         margin-left: -7%;
     }
     .form-pop{
