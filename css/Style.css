@@ -351,7 +351,7 @@ header .nav-bar ul li a{
     border: 1px solid var(--text-color);
 }
 .slides img{
-    height: 250px;
+    /* height: 250px; */
     width: 100%;
     transition: all 0.15s ease;
     
@@ -875,10 +875,10 @@ footer .footer-bottom{
         display: block;
     }
     .slider{
-        width: 69.5%;
+        width: 88.5%;
         position: relative;
         overflow: hidden;
-        margin-left: 3%;
+        margin-left: -6%;
         margin-bottom: 50px;
     }
 
@@ -891,15 +891,20 @@ footer .footer-bottom{
     }
 }
 @media (max-width: 760px){
+    .slider{
+        margin-left: -7%;
+    }
     .form-pop{
         width: 95%;
-
     }
     .form-box .form-details{
         display: none;
     }
     .form-box .form-content{
         padding: 30px 20px;
+    }
+    .navigation label{
+        margin-top: -49px;
     }
 }
 @media(max-width: 450px){
@@ -919,13 +924,15 @@ footer .footer-bottom{
         display: block;
         left: 42%;
     }
-
     .slider{
         width: 98.5%;
         position: relative;
         overflow: hidden;
         margin-left: -14%;
         margin-bottom: 50px;
+    }
+    .navigation label{
+        margin-top: -49px;
     }
     footer{
         height: auto;
