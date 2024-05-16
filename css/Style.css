@@ -904,8 +904,20 @@ footer .footer-bottom{
     .form-box .form-content{
         padding: 30px 20px;
     }
+    .text-box h1{
+        font-size: 40px;
+    }
     .navigation label{
         margin-top: -49px;
+    }
+
+}
+@media(max-width: 540px){
+    .text-box h1{
+        font-size: 33px;
+    }
+    .low-part h3{
+        font-size: 23px;
     }
 }
 @media(max-width: 450px){
@@ -916,6 +928,9 @@ footer .footer-bottom{
         position: absolute;
         left: 70px;
         font-size: 18px;
+    }
+    .text-box h1{
+        font-size: 25px;
     }
     nav .search-box{
         width: 300px;
@@ -934,6 +949,9 @@ footer .footer-bottom{
     }
     .navigation label{
         margin-top: -49px;
+    }
+    .low-part h3{
+        font-size: 21px;
     }
     footer{
         height: auto;
