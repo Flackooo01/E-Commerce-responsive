@@ -300,7 +300,7 @@ header .nav-bar ul li a{
 .container-form{
     height: auto;
     position: absolute;
-    top: 55%;
+    top: 58%;
     left: 50%;
     transform: translate(-50%, -50%);
     background: var(--form-bg-color);
@@ -550,22 +550,8 @@ form .signup-link a:hover{
         display: block;
         left: 42%;
     }
-    .slider{
-        width: 98.5%;
-        position: relative;
-        overflow: hidden;
-        margin-left: -14%;
-        margin-bottom: 50px;
+    .container-form{
+        width: 361px;
     }
 
-    .navigation label{
-        margin-top: -49px;
-    }
-    footer{
-        height: auto;
-    }
-    footer .footer-content{
-        height: auto;
-        flex-direction: column;
-    }
 }
