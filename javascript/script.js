@@ -34,7 +34,7 @@ function slider(){
     slideImg.src = image[i];
     i++
     setTimeout('slider()',3000);
-}
+};
 
 // Navbar @media queries
 // $(document).ready(function(){
