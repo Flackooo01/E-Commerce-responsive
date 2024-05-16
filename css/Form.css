@@ -452,7 +452,6 @@ form .signup-link a:hover{
         background: var(--bg-color);
         transition: 0.5s;
         overflow: hidden;
-
     }
     .nav-bar ul{
         width: 100%;

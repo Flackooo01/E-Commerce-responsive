@@ -771,7 +771,7 @@ footer .footer-bottom{
     }
 }
 
-@media(max-width: 900px){
+@media(max-width: 950px){
     #nav{
         padding: 0 10px;
     }
