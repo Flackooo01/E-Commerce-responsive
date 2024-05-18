@@ -1,13 +1,63 @@
 k1
 ASUS ROG Strix Scope II 96 Wireless Gaming Keyboard, Tri-Mode Connection, Dampening Foam & Switch-Dampening Pads, Hot-Swappable Pre-lubed ROG / UV-Coated ABS Keycaps, RGB-Black ( NX Snow / Storm Switch )
+rating 5
 
 ₱7,420.00
 
 k2
 ASUS ROG STRIX SCOPE NX DELUXE WIRELESS NX RED XA09
 ₱6,295.00
+rating 5
 
 k3
 Asus ROG Falchion RX Low Profile 65% Compact RGB Tri-Mode Wireless Gaming Keyboard
 ₱7,810.00
+rating 5
+
+k4
+ZYPHER ARMATA Mechanical Gaming Keyboard (Blue / Brown Switch)
+₱1,399.00
+rating 4 and half
+
+k5
+Lofree Flow 84 Keys Dual Mode Low Profile Mechanical Keyboard (Silver)
+₱6,295.00
+rating 5
+
+k6
+Redragon Azure K652GG-RGB-Pro 75% Low-Profile Wireless Mechanical Keyboard
+₱3,550.00
+rating 5
+
+Headset
+h1
+Portable Wireless Bluetooth "B39" Headphone RGB Breathing Light HiFi Music Gaming Built-in Mic Noise-Cancelling Folding
+₱104.76
+rating 4 half
+
+h2
+【COD】Headphones bluetooth wireless JBL TUNE 510BT Plus Wireless Headphones Bluetooth V5.1 Head Beam Extension Quality Craftsmanship 850mAh Battery Capacity Over-the-Ear Headphone /Wireless earphone /wireless headset/wireless head/wireless headphones
+₱1,289.00
+rating 4 half
+
+h3
+HyperX Cloud Stinger 2 Core PS5 Lightweight Easy Access Audio Controls Wired Over Ear Gaming Headset with mic Gaming Headphone
+₱2,061.00
+rating 4 half
+
+h4
+Razer Barracuda X 2022 Wireless Multi-Platform Gaming Headset [Mercury]
+₱4,450.00
+rating 5
+
+h5
+Logitech Zone Vibe 100 Lightweight Noise Canceling Mic Bluetooth Wireless Over Ear Headset
+₱4,184.07
+rating 4 half
+
+h6
+Logitech G733 Lightspeed Wireless RGB Gaming Headset White
+₱5,995.00
+rating 4 half
+
 

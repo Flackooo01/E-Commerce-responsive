@@ -335,37 +335,6 @@ header .nav-bar ul li a{
 
 /** Product List  */
 
-.small-container {
-    margin: auto;
-    padding-left: 25px;
-    padding-right: 25px;
-}
-.small-container .row {
-    display: flex;
-    justify-content: center; /* Center the .col-4 elements horizontally */
-    flex-wrap: wrap; /* Ensure items wrap to the next line if necessary */
-    width: 100%; /* Full width for the row */
-    gap: 20px;
-}
-.small-container .col-4 {
-    flex-basis: 25%;
-    padding: 10px;
-    min-width: 200px;
-    margin-bottom: 50px;
-    display: flex;
-    flex-direction: column; /* Align items vertically */
-    align-items: center; /* Center the content horizontally */
-}
-.small-container h4{
-    font-size: 10px;
-}
-.col-4{
-    box-shadow:0 0 8px rgba(0,0,0,0.4);
-}
-.col-4 img {
-    width: 265px;
-    height: 450px;/* Maintain aspect ratio */
-}
 
 /** Footer V2 **/
 footer{
