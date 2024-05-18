@@ -1022,6 +1022,6 @@ footer .footer-bottom{
     }
     .categories .col-3 {
         flex-basis: 10%; /* Adjust width for small screens */
-        min-width: 87px;
+        min-width: 113px;
     }
 }
