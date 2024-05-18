@@ -386,6 +386,7 @@ header .nav-bar ul li a{
 #product1{
     text-align: center;
     margin-bottom: 30px;
+    margin-top: -50px;
 }
 #product1 .pro-container{
     display: flex;
@@ -1108,6 +1109,9 @@ footer .footer-bottom{
         flex-basis: 10%; /* Adjust width for small screens */
         min-width: 141px;
     }
+    #product1 .pro{
+        min-width: 183px;
+    }
 
 }
 
@@ -1138,6 +1142,11 @@ footer .footer-bottom{
         height: 35px;
         line-height: 35px;
     }
+    #product1 .pro{
+        min-width: 183px;
+        margin: 3px 0;
+    }
+
 }
 @media(max-width: 525px){
     #feature .fe-box{
@@ -1146,6 +1155,13 @@ footer .footer-bottom{
     }
     #feature .fe-box h6{
         font-size: 12px;
+    }
+    #product1 .pro{
+        min-width: 183px;
+        margin: 3px 0;
+    }
+    #product1 .pro .des h5{
+        font-size: 10px;
     }
 }
 @media(max-width: 450px){
