@@ -397,6 +397,7 @@ header .nav-bar ul li a{
 }
 #product1 .pro{
     width: 15%;
+    height: 100%;
     min-width: 200px;
     padding: 10px 12px;
     border: 1px solid var(--border-product);
@@ -426,6 +427,11 @@ header .nav-bar ul li a{
     padding-top: 7px;
     color: var(--color-text-product);
     font-size: 14px;
+    overflow-wrap: break-word;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
 }
 #product1 .pro .des i{
     font-size: 12px;
@@ -442,9 +448,9 @@ header .nav-bar ul li a{
     margin-top: -10px;
 }
 #product1 .pro .cart{
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
     border-radius: 50px;
     background-color: var(--bg-color-product);
     color: var(--color-product);
@@ -1137,13 +1143,8 @@ footer .footer-bottom{
         margin: 15px;
         min-width: 150px;
     }
-    #product1 .pro .cart{
-        width: 35px;
-        height: 35px;
-        line-height: 35px;
-    }
     #product1 .pro{
-        min-width: 183px;
+        min-width: 177px;
         margin: 3px 0;
     }
 
@@ -1157,8 +1158,14 @@ footer .footer-bottom{
         font-size: 12px;
     }
     #product1 .pro{
-        min-width: 183px;
+        min-width: 140px;
         margin: 3px 0;
+    }
+    #product1 .pro .cart{
+        width: 23px;
+        height: 24px;
+        line-height: 23px;
+        font-size: 10px;
     }
     #product1 .pro .des h5{
         font-size: 10px;
@@ -1219,13 +1226,33 @@ footer .footer-bottom{
         font-size: 6px;
     }
     #product1 .pro{
-        margin: 15px;
-        min-width: 150px;
+        margin: 0px;
+        min-width: 47%;
+        height: 100%;
     }
-    #product .pro .cart{
-        width: 23px;
-        height: 23px;
-        line-height: 23px;
+    #product1 .pro .des span{
         font-size: 10px;
     }
+    #product1 .pro .des h5{
+        font-size: 10px;
+    }
+    #product1 .star {
+        font-size: 10px;
+    }
+    #product1 .pro .des h4{
+        font-size: 9px;
+    }
+    #product1 .pro .cart{
+        width: 22px;
+        height: 22px;
+        line-height: 20px;
+        font-size: 10px;
+    }
+    .star i{
+        font-size: 6px;
+    }
+    .star h6{
+        font-size: 6px;
+    }
+
 }
