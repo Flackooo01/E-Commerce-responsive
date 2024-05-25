@@ -328,7 +328,7 @@ header .nav-bar ul li a{
 #product1{
     text-align: center;
     margin-bottom: 30px;
-
+    margin-top: 50px;
 }
 
 #product1 .pro-container{
@@ -422,6 +422,65 @@ header .nav-bar ul li a{
     font-weight: 600;
 }
 
+
+/** Single Product */
+
+#prodetails{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+#prodetails .single-pro-image{
+    width: 30%;
+    margin-right: 50px;
+}
+#prodetails .single-pro-image .small-img-group .small-img{
+    width: 100%;
+}
+.small-img-group{
+    display: flex;
+    justify-content: space-between;
+}
+.small-img-col{
+    flex-basis: 24%;
+    cursor: pointer;
+}
+#prodetails .single-pro-details{
+    width: 50%;
+    padding: 30px;
+    margin-top: -33px;
+}
+#prodetails .single-pro-details h4{
+    padding: 6px 0 15px 0;
+}
+#prodetails .single-pro-details h2{
+    font-size: 26px;
+}
+#prodetails .single-pro-details select{
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+#prodetails .single-pro-details input{
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+#prodetails .single-pro-details input:focus{
+    outline: none;
+}
+#prodetails .single-pro-details button{
+    background: var(--color-text-feature);
+    color: var(--footer-font-color);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+#prodetails  .single-pro-details span{
+    line-height: 15px;
+}
 
 /** Footer V2 **/
 footer{
@@ -760,7 +819,22 @@ footer .footer-bottom{
     #product1 .pro{
         min-width: 167px;
     }
-
+    #prodetails .single-pro-details h4,
+    #prodetails .single-pro-details h2{
+        font-size: 10px;
+        padding: 0px 0 0px 0;
+    }
+    #prodetails .single-pro-details input{
+        width: 40px;
+        height: 35px;
+    }
+    #prodetails .single-pro-details button{
+        font-size: 10px;
+    }
+    #prodetails .single-pro-details span{
+        line-height: 10px;
+        font-size: 10px;
+    }
     footer{
         height: auto;
     }
@@ -890,6 +964,32 @@ footer .footer-bottom{
     .featured-text h1{
         font-size: 21px;
     }
+
+    /** Single Product  */
+
+    .section-p1{
+        padding: 10px 10px;
+    }
+
+    #prodetails{
+        display: flex;
+        flex-direction: column;
+    }
+    #prodetails .single-pro-image{
+        width: 100%;
+        margin-right: 0px;
+    }
+    #prodetails .single-pro-details{
+        width: 100%;
+        margin-top: -13px;
+    }
+
+
+
+
+
+
+
     footer{
         height: auto;
     }
