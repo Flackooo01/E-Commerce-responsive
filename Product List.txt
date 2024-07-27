@@ -11,31 +11,122 @@ Sound-dampening foam: Integrated foam absorbs pinging noises and echoes for impr
 UV-Coated ABS keycaps: Durable ROG UV-coated ABS keycaps offer a premium feel and shine resistance*
 Unique ROG-themed space bar: UV-coated spacebar with special ROG markings and three underside RGB LEDs
 Ergonomic design: Three tilt positions and a detachable wrist rest
-
 ₱7,420.00
 
 k2
 ASUS ROG STRIX SCOPE NX DELUXE WIRELESS NX RED XA09
+Details
+Key Switch: ROG NX Mechanical: Red
+Connectivity: 
+USB 2.0
+RF 2.4GHz
+Bluetooth 5.2
+Size (Full/TKL): 100%
+Lighting: Per-Key RGB LEDs
+AURA Sync: Yes
+Anti-Ghosting: 100% Anti-Ghosting
+Macro Keys: All Keys Programmable On-the-Fly Recording Support (except for 'Fn')
+USB Report rate: (USB Report rate) 1000 Hz
+Profile Hot Keys: Fn + 1 / 2 / 3 / 4 / 5 / 6* * 6 is default
+Lighting Effects Hot Keys: Fn + Right or Fn + Left
+Brightness Setting Hot Keys: Fn + Up: Brightness up Fn + Down: Brightness down
+Macro Hot Keys: On-the-Fly Macro Recording: Step 1: Fn + L-ALT to start recording Step 2: Fn + L-ALT to end recording Step 3: Assign new macro key
+Media Hot Keys: Play/Pause (F5), Stop (F6), Previous (F7), Next (F8), Mute (F9), Volume Down (F10), Volume Up (F11). Stealth Key (F12)
+OS: Windows® 10/11
+Software: Armoury Crate
+Dimensions: 440 x 137 x 39mm
+Weight: Approx. 1166g (Including wrist rest and cable)
+Color: Black
 ₱6,295.00
 rating 5
 
 k3
 Asus ROG Falchion RX Low Profile 65% Compact RGB Tri-Mode Wireless Gaming Keyboard
+ROG Falchion RX Low Profile
+ROG Falchion RX Low Profile 65% compact wireless gaming keyboard with ROG RX low-profile optical switches, tri-mode connection with ROG SpeedNova wireless technology and Omni Receiver, protective cover, integrated silicone dampening foam, interactive touch panel, and MacOS support
+- Compact and slim design: 65% keyboard in a 60% frame with a 26.5 mm profile masterfully incorporates arrow and navigation keys
+- ROG RX Low-Profile Optical Switches: Pre-lubed RX Red and Blue switches feature centralized lighting and provide consistent wobble-free keystrokes with near-zero debounce delay
+- Tri-mode connection: Connect via Bluetooth® (up to three devices simultaneously), 2.4 GHz with ROG SpeedNova wireless technology, or wired USB
+- ROG Omni Receiver: Wirelessly connect to multiple supported devices via a single receiver
+- Intuitive control: Play/pause media, adjust volume and keyboard lighting with the multi-function button and interactive touch panel
+- Enhanced typing experiences: Two layers of integrated silicone foam eliminate echoes and switch pinging for great typing acoustics
+- Protective cover: Enjoy on-the-go protection and guard against dust
+- MacOS support: Easily toggle between Windows and MacOS modes
 ₱7,810.00
 rating 5
 
 k4
 ZYPHER ARMATA Mechanical Gaming Keyboard (Blue / Brown Switch)
+Keyboard USB interface: 2.0 full speed performance.
+Connection port: USB
+USB return rate / connection : 1,000Hz (1 time return per millisecond).
+USB cable: 12*0.10 full copper wire, aluminum foil + magnetic ring double shield, standard
+USB-A terminal, length 1600mm +/-50mm.
+Full keyboard backlit character keys: LED backlit design.
+26-key anti-collision hardware design. Press the 26 Keys without conflict
+Mechanical switch: 50 million times use
+Keycap with double injection molding
+Keyboard Material: Special Aluminum alloy
+Keyboard Size:434.96*191.65*38.63mm
+Keyboard Weight: 914g
+Operating current: < 200mA.
+System requirement: Windows® XP or Windows® Vista 32/64 bit or Windows® 7 32/64 bit orWindows® 8.1 32/64 bit or Windows® 10 32/64 bit
+Light Specifications:
+Addressable RGB LED Light
+Adjustable light brightness
+Adjustable light switching speed
+The key of W/S/A/D can be changed into ↑/↓/←/→
+Support lock WIN key function.
+ALLOY KNOB INSTRUCTIONS
+Press the Alloy Knob to cycle through the lighting modes.
+Rotate the Alloy Knob to reset the lightning sequence of your selected lighting mode.
+Press the Alloy Knob to Mute
+Rotate the Alloy Knob Clockwise to Increase volume
+Rotate the Alloy Knob Counter Clockwise to Decrease volume
+TO TOGGLE BETWEEN LIGHTING MODE AND MULIMEDIA MODE, PRESS THE ALLOYKNOB FOR 5 (FIVE) SECONDS.
+LIGHTING MODE
+MULTIMEDIA MODE
 ₱1,399.00
 rating 4 and half
 
 k5
 Lofree Flow 84 Keys Dual Mode Low Profile Mechanical Keyboard (Silver)
+Minimalist Design
+Under Restrained Aesthetics, simple and clean with more life texture.
+84-Key Compact Layout
+Simplify the complexity, make the desktop space can be used efficiently, save the desktop space, and improve the overall aesthetic feeling.
+Small Size-Suitable For Different Office Scenarios
+Lightweight and easy to carry, it can work efficiently in different places.
+Aluminum Case
+Fine Details With More Durable. All-aluminum alloy body, finely crafted texture beauty. The logo on the metal nameplate is the finishing touch in minimalism. Multiple CD-textured screws, precision-constructed craftsmanship. The default 3.9° metal silicone bottom pad foot support is stable and non-slip.
+GASKET Structure
+Smoother and softer typing feel. Gasket structure+IXPE+Poron sound-absorbing foam. Helps provide a better feel and purer sound.
+PBT Keycap Material+Dye Sublimation Process
+Delicate feel, wear-resistant and non-oily. The PBT content is not less than 80%, which brings a more comfortable matte feel, is not easy to fade, does not oil, the pattern and characters are clear and is not easy to wear.
+Unique Experience Of Double-Sided Light and Shadow
+Keycap LED monochrome backlight + bottom RGB ambient light, dual light, make your desktop more atmospheric.
+Two Connection Methods
+Support Bluetooth 5.0/Wired Type-C connected, compatible with Windows 8/10, Mac/ios, and Android systems. Bluetooth can connect three devices at the same time and supports one-key switching.
+Large Capacity Built-In Lithium Battery
+2000mAh battery capacity, theoretical battery life of 6-8 weeks.
 ₱6,295.00
 rating 5
 
 k6
 Redragon Azure K652GG-RGB-Pro 75% Low-Profile Wireless Mechanical Keyboard
+- 100% Supported Win/Mac System
+- Sturdy aluminum frame
+- Bluetooth/2.4Ghz/Wired Tri-Mode multiple connections options
+- Compatible with Window
+- Ultra-Thin Low Profile Gaming Keyboard
+- 75% compact 84 Keys Layou
+- 30% Cutted Ultra-Thin with Dedicated Media Control
+- Professional Software Support
+- RGB Backlit
+- Ergonomic Keycaps brings comfortable feeling
+- Ultra-low profile and replaceable switch
+- Efficient built-in rechargeable battery
+-Ultra low-profile Red Switch
 ₱3,550.00
 rating 5
 

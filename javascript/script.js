@@ -5,7 +5,6 @@ humburger.onclick = function(){
 }
 
 // Navbar
-
 first = document.querySelector(".font-logo");
 first.onclick = function(){
     navbar = document.querySelector(".first-nav-nav");
@@ -57,10 +56,6 @@ smallimg[3].onclick = function (){
     MainImg.src = smallimg[3].src;
 };
 
-// Window location
-function win(){
-    window.location.href='../SingleProduct/Kproduct.html';
-}
 
 
 
